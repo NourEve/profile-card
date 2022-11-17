@@ -20,21 +20,26 @@
 
 main{
     font-family: 'Robotomono', sans-serif;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
 }
 
 body{
-    display: flex;
-    justify-content: center;
-    background-color: rgb(212, 212, 212) ;
+    background-color: rgb(212, 212, 212);
 }
 
 .corps{
+    margin-top: 10%;
     border-bottom: 15px solid #ffb4a2;
     border-radius: 50px;
     width: 500px;
     height: 700px;
     background-color: #6d6875;
     text-align: center;
+    grid-area: 1 / 2 / 2 / 3;
 }
 .moi{
     margin-top: 20px;
@@ -49,8 +54,7 @@ body{
 section{
     color: #b5838d;
     font-size: 1em;
-    margin-left: 10px;
-    margin-right: 10px;
+    grid-area: 3 / 1 / 4 / 5;
 }
 h1{
     font-size: 2.5em;
@@ -73,6 +77,9 @@ section p{
 
 footer{
     margin-top: 40px;
-    display: flex;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 0px;
 }
