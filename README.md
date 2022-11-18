@@ -1,9 +1,13 @@
 # profile-card
-**Création d'une profile-card afin de travailler flexbox et grid :**   
+**Création d'une profile-card (en deux exemplaires) afin de travailler flexbox et grid :**   
 * par Nour Everaert ;
 * en 1 journée de travail ;
 * en date du 17 novembre 2022 ;
 * dans le cadre de la formation BeCode.
+
+## Liens vers les repositories séparés
+* https://github.com/NourEve/profile-card-flexbox
+* https://github.com/NourEve/profile-card-flexbox
 
 ## Contenu du repository:
 * Deux dossiers comprenant chacun :
