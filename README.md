@@ -7,7 +7,7 @@
 
 ## Liens vers les repositories séparés
 * https://github.com/NourEve/profile-card-flexbox
-* https://github.com/NourEve/profile-card-flexbox
+* https://github.com/NourEve/profile-card-grid
 
 ## Contenu du repository:
 * Deux dossiers comprenant chacun :
