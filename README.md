@@ -10,7 +10,7 @@
 * https://github.com/NourEve/profile-card-grid
 
 ## Contenu du repository:
-* Deux dossiers comprenant chacun :
+ Deux dossiers comprenant chacun :
 *  les pages html et css ;
 *  police d'écriture "RobotoMono" ;
 *  images nécessaires à la page web.
